@@ -76,5 +76,5 @@ Seeking entry-level IT Support, Help Desk, or Technology Services Technician rol
 ---
 
 ## 📫 Contact
-- LinkedIn: *(add when ready)*
+- LinkedIn: https://www.linkedin.com/in/dylan-pardo-72779418b
 - GitHub: https://github.com/moneyman2597-money
